@@ -98,7 +98,7 @@ tests/             Jest + Supertest
 **Prerequisites:** Node.js 20+, a MongoDB database (local or free Atlas cluster), a fal.ai key, a Cloudinary account.
 
 ```bash
-git clone https://github.com/Jeevan2410/CineGen-API.git
+git clone https://github.com/3T3RN4TU5/CineGen-API.git
 cd CineGen-API
 npm install
 cp .env.example .env      # then fill in the values
